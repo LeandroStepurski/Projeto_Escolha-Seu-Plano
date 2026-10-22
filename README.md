@@ -7,3 +7,5 @@ Projeto desenvolvido durante aula prática (prática guiada pelo instrutor) para
 - **Pseudo-elementos e Pseudo-classes:** Utilizados para estilização de detalhes e efeitos de interação.
   - **Pseudo-elemento:** Usado para alterar a cor dos marcadores (*bullets*) das `<li>`.
   - **Pseudo-classe:** Usada com o estado `:hover` para alterar a estilização de um elemento ao passar o ponteiro do mouse por cima.
+
+  ![alt text](image.png)
